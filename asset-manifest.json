@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/yelpClone/static/css/main.5f361e03.chunk.css",
-    "main.js": "/yelpClone/static/js/main.8722269b.chunk.js",
-    "main.js.map": "/yelpClone/static/js/main.8722269b.chunk.js.map",
+    "main.css": "/yelpClone/static/css/main.523f09c5.chunk.css",
+    "main.js": "/yelpClone/static/js/main.94cc1ced.chunk.js",
+    "main.js.map": "/yelpClone/static/js/main.94cc1ced.chunk.js.map",
     "runtime-main.js": "/yelpClone/static/js/runtime-main.fc6e7e99.js",
     "runtime-main.js.map": "/yelpClone/static/js/runtime-main.fc6e7e99.js.map",
     "static/js/2.ba7999fe.chunk.js": "/yelpClone/static/js/2.ba7999fe.chunk.js",
     "static/js/2.ba7999fe.chunk.js.map": "/yelpClone/static/js/2.ba7999fe.chunk.js.map",
     "index.html": "/yelpClone/index.html",
-    "precache-manifest.0c8c25056bd09acb4be2cfea6c6443af.js": "/yelpClone/precache-manifest.0c8c25056bd09acb4be2cfea6c6443af.js",
+    "precache-manifest.2ecfa4a5834ac97d44ef23fd9510e570.js": "/yelpClone/precache-manifest.2ecfa4a5834ac97d44ef23fd9510e570.js",
     "service-worker.js": "/yelpClone/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/yelpClone/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/yelpClone/static/css/main.523f09c5.chunk.css.map",
     "static/js/2.ba7999fe.chunk.js.LICENSE.txt": "/yelpClone/static/js/2.ba7999fe.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/yelpClone/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/yelpClone/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fc6e7e99.js",
     "static/js/2.ba7999fe.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8722269b.chunk.js"
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.94cc1ced.chunk.js"
   ]
 }
