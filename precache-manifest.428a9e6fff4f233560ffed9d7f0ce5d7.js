@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca95f90cbc1450e125860a8c218f27c8",
+    "revision": "8e8fa69b3f01b6225f5fe004ab4e0e20",
     "url": "/yelpClone/index.html"
   },
   {
-    "revision": "a7b2985aa441d3a7c89b",
+    "revision": "129055ca63633b24ab6a",
     "url": "/yelpClone/static/css/main.31203301.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yelpClone/static/js/2.1758185d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7b2985aa441d3a7c89b",
-    "url": "/yelpClone/static/js/main.5b4af72b.chunk.js"
+    "revision": "129055ca63633b24ab6a",
+    "url": "/yelpClone/static/js/main.6b2d5586.chunk.js"
   },
   {
     "revision": "dea7c4f07586bfb11543",
