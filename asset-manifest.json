@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yelpClone/static/css/main.31203301.chunk.css",
-    "main.js": "/yelpClone/static/js/main.44acbf9e.chunk.js",
-    "main.js.map": "/yelpClone/static/js/main.44acbf9e.chunk.js.map",
+    "main.js": "/yelpClone/static/js/main.c673e35c.chunk.js",
+    "main.js.map": "/yelpClone/static/js/main.c673e35c.chunk.js.map",
     "runtime-main.js": "/yelpClone/static/js/runtime-main.fc6e7e99.js",
     "runtime-main.js.map": "/yelpClone/static/js/runtime-main.fc6e7e99.js.map",
     "static/js/2.dbfe3253.chunk.js": "/yelpClone/static/js/2.dbfe3253.chunk.js",
     "static/js/2.dbfe3253.chunk.js.map": "/yelpClone/static/js/2.dbfe3253.chunk.js.map",
     "index.html": "/yelpClone/index.html",
-    "precache-manifest.f39e0a0f1482c0414fed2c47bc932015.js": "/yelpClone/precache-manifest.f39e0a0f1482c0414fed2c47bc932015.js",
+    "precache-manifest.7fc0a79f9f8db1b30137f5ef7d5ba9e6.js": "/yelpClone/precache-manifest.7fc0a79f9f8db1b30137f5ef7d5ba9e6.js",
     "service-worker.js": "/yelpClone/service-worker.js",
     "static/css/main.31203301.chunk.css.map": "/yelpClone/static/css/main.31203301.chunk.css.map",
     "static/js/2.dbfe3253.chunk.js.LICENSE.txt": "/yelpClone/static/js/2.dbfe3253.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fc6e7e99.js",
     "static/js/2.dbfe3253.chunk.js",
     "static/css/main.31203301.chunk.css",
-    "static/js/main.44acbf9e.chunk.js"
+    "static/js/main.c673e35c.chunk.js"
   ]
 }
